@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+header, section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+}
+
+ul {
+    list-style-type: disc;
+}
