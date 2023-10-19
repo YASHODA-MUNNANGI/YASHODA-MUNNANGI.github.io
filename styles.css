@@ -36,7 +36,7 @@ body {
 }
 
 .hero {
-    background-image: url('background.jpg'); /* Replace with your background image */
+    background-image: url('https://www.pexels.com/photo/person-holding-a-sticker-11035393.jpg'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: #fff;
