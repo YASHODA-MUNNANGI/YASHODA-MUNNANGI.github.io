@@ -36,7 +36,7 @@ body {
 }
 
 .hero {
-    background-image: url('https://www.pexels.com/photo/person-holding-a-sticker-11035393/'); /* Replace with your background image */
+    background-image: url('/wp-content/uploads/flamingo.jpg'); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     color: #fff;
